@@ -1,3 +1,7 @@
+### 把单位修改为了分钟，默认计时为 5 分钟
+
+### 后台挂起也算入锁屏倒计时时间
+
 ## 🚨 NOT UNDER ACTIVE DEVELOPMENT 🚨
 
 Feel free to fork!
